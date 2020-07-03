@@ -1,0 +1,11 @@
+C:\Users\sergi\source\repos\App24\bin\Debug\netcoreapp3.1\App24.exe
+C:\Users\sergi\source\repos\App24\bin\Debug\netcoreapp3.1\App24.deps.json
+C:\Users\sergi\source\repos\App24\bin\Debug\netcoreapp3.1\App24.runtimeconfig.json
+C:\Users\sergi\source\repos\App24\bin\Debug\netcoreapp3.1\App24.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\App24\bin\Debug\netcoreapp3.1\App24.dll
+C:\Users\sergi\source\repos\App24\bin\Debug\netcoreapp3.1\App24.pdb
+C:\Users\sergi\source\repos\App24\obj\Debug\netcoreapp3.1\App24.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\App24\obj\Debug\netcoreapp3.1\App24.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\App24\obj\Debug\netcoreapp3.1\App24.AssemblyInfo.cs
+C:\Users\sergi\source\repos\App24\obj\Debug\netcoreapp3.1\App24.dll
+C:\Users\sergi\source\repos\App24\obj\Debug\netcoreapp3.1\App24.pdb
